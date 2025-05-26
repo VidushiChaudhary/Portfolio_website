@@ -31,7 +31,7 @@ function Navbar() {
             {isOpen && (
                 <div className="flex flex-col gap-3 px-5 pb-4 md:hidden italic text-white bg-white/5 text-lg">
                     <Link to="/" onClick={() => setIsOpen(false)}>Home</Link>
-                    <Link to="/" onClick={() => setIsOpen(false)}>About</Link>
+                    <Link to="/About" onClick={() => setIsOpen(false)}>About</Link>
                     <Link to="/skill" onClick={() => setIsOpen(false)}>Education</Link>
                     <Link to="/project" onClick={() => setIsOpen(false)}>Skills</Link>
                     <Link to="/education" onClick={() => setIsOpen(false)}>Project</Link>
