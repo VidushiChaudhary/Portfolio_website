@@ -24,8 +24,8 @@ function About() {
           <li className="bg-black-100 shadow-md shadow-cyan-600 px-4 py-2 rounded-lg text-center">JavaScript</li>
           <li className="bg-black-100 shadow-md shadow-cyan-600 px-4 py-2 rounded-lg text-center">React.js</li>
           <li className="bg-black-100 shadow-md shadow-cyan-600 px-4 py-2 rounded-lg text-center">Tailwind CSS</li>
+          <li className="bg-black-100 shadow-md shadow-cyan-600 px-4 py-2 rounded-lg text-center">Bootstrap</li>
           <li className="bg-black-100 shadow-md shadow-cyan-600 px-4 py-2 rounded-lg text-center">Node.js</li>
-          <li className="bg-black-100 shadow-md shadow-cyan-600 px-4 py-2 rounded-lg text-center">Express.js</li>
           <li className="bg-black-100 shadow-md shadow-cyan-600 px-4 py-2 rounded-lg text-center">MongoDB</li>
           <li className="bg-black-100 shadow-md shadow-cyan-600 px-4 py-2 rounded-lg text-center">Git & GitHub</li>
         </ul>
