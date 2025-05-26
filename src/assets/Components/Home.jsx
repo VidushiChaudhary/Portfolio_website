@@ -1,5 +1,6 @@
 import React from "react";
 import Image from '../images/Home.png';
+import About from "./About";
 import Education from "./Education";
 import Skills from "./Skills";
 import Project from "./Project";
@@ -52,6 +53,7 @@ function Home() {
             </div>
 
             {/* Other Sections */}
+            <About/>
             <Education />
             <Skills />
             <Project />
