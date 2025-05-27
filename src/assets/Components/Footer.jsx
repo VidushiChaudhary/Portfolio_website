@@ -12,9 +12,9 @@ function Footer() {
         {/* Navigation Links */}
         <div className="flex flex-wrap justify-center gap-6 text-base md:text-lg font-medium">
           <Link to="/about">About</Link>
-          <Link to="/skills">Skills</Link>
-          <Link to="/project">Projects</Link>
           <Link to="/education">Education</Link>
+          <Link to="/skills">Skills</Link>
+          <Link to="/project">Project</Link>
           <Link to="/contact">Contact</Link>
         </div>
 
