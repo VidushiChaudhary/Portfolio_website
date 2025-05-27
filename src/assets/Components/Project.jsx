@@ -23,7 +23,7 @@ function Project() {
                     </div>
                     <p className="text-lg text-white  mb-4">Created a fully Independence Day-themed webpage.</p>
                     <div className="flex justify-center">
-                        <a href="https://rawcdn.githack.com/VidushiChaudhary/Paint_App/aac045bd949ab8376e99ac55824cb160cee04b12/index.html" target="_blank" rel="noopener noreferrer">
+                        <a href="https://rawcdn.githack.com/VidushiChaudhary/CSS-Car-Animation/240d632141ed432b0d46120a54a1c78eed162c2b/index.html" target="_blank" rel="noopener noreferrer">
                             <button className="rounded-md text-white text-lg h-10 w-52 bg-cyan-700 cursor-pointer ">Click Here for Demo</button>
                         </a>
                     </div>
@@ -40,7 +40,7 @@ function Project() {
                     </div>
                     <p className="text-lg text-white  mb-4">Built an interactive To-Do List with add, delete, and mark as completed functionality.</p>
                     <div className="flex justify-center">
-                        <a href="https://rawcdn.githack.com/VidushiChaudhary/Bootstrap_Project-using-html/8e58df00a7d1b05b08213d704a71121c2abd7acc/index.html" target="_blank" rel="noopener noreferrer">
+                        <a href="https://rawcdn.githack.com/VidushiChaudhary/JS-Project2/b59fb2d0202f9baaabd89d5d5f67b049e1bfd35f/index.html">
                             <button className="rounded-md text-white text-lg h-10 w-52 bg-cyan-600 cursor-pointer ">Click Here for Demo</button>
                         </a>
                     </div>
@@ -57,7 +57,7 @@ function Project() {
                     </div>
                     <p className="text-lg text-white  mb-4">Built a dynamic Alarm Clock with real-time time display and multiple alarm support.</p>
                     <div className="flex justify-center">
-                        <a href="https://rawcdn.githack.com/VidushiChaudhary/Bootstrap_Project-using-html/8e58df00a7d1b05b08213d704a71121c2abd7acc/index.html" target="_blank" rel="noopener noreferrer">
+                        <a href="https://rawcdn.githack.com/VidushiChaudhary/JS-Project1/c79121f35c0dcb15c4987c2bcfae0c4bb0568d66/Project-1/index.html">
                             <button className="rounded-md text-white text-lg h-10 w-52 bg-cyan-600  cursor-pointer">Click Here for Demo</button>
                         </a>
                     </div>
